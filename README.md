@@ -47,9 +47,10 @@ A Node.js-based weather API that provides real-time weather information.
 
 ### 📝 [Blog Platform](https://github.com/Precixphantom/blog-platform)
 A full-featured blogging platform with user authentication, CRUD operations for blog posts, and responsive design. Built with Node.js, Express, MongoDB, and EJS templates, featuring session management and password hashing for secure user accounts.
+
 **Live API:** [chronos-backend-bqjf.onrender.com](https://blog-platform-6wv2.onrender.com)
 
-### ⏰ [Chronos API](https://github.com/Precixphantom/chronos-api) (Currently Working On)
+### ⏰ [Chronos API](https://github.com/Precixphantom/chronos-api)
 A production-ready study tracking API that helps students organize courses and manage task deadlines with intelligent automation. Features JWT authentication, automated email reminders for upcoming deadlines, weekly progress summaries, and background job scheduling using node-cron. Deployed on Render with 99%+ uptime monitoring.
 
 **Live API:** [chronos-backend-bqjf.onrender.com](https://pchronos.vercel.app/)
