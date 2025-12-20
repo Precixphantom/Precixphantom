@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi there, I'm Precious Afolabi 👋
 
-<!--
-**Precixphantom/Precixphantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Cybersecurity Student | Junior Backend Developer | Aspiring Ethical Hacker**
 
-Here are some ideas to get you started:
+I'm a Computer Science and Cybersecurity (Mathematics) student at **Obafemi Awolowo University** in Osun, Nigeria. I'm passionate about building robust backend systems and understanding how things work behind the scenes—whether it's websites, apps, or even movies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently mastering backend development with Node.js, with plans to dive deeper into cybersecurity once I've built a solid foundation. My goal? To become a skilled ethical hacker who can protect and secure digital systems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Studying Computer Science & Cybersecurity at Obafemi Awolowo University
+- 💻 Junior Backend Developer specializing in Node.js
+- 🔐 Aspiring Ethical Hacker with a curiosity for security
+- 🌱 Currently learning advanced backend development concepts
+- 🔍 Always curious about how things work under the hood
+- 🌍 Based in Osun, Nigeria
+- 📈 Growing in public and building my portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- JavaScript (Node.js)
+
+**Backend & Tools:**
+- Node.js & Express.js
+- MongoDB & Mongoose
+- JWT Authentication
+- Bcrypt (Password Hashing)
+- Redis (Caching)
+- Socket.io (Real-time Communication)
+- Multer (File Uploads)
+- Paystack (Payment Integration)
+
+**Development Tools:**
+- VS Code
+- Git & GitHub
+- Postman (API Testing)
+
+---
+
+## 💼 Featured Projects
+
+### 🌤️ [Weather API](https://github.com/Precixphantom/weather-api-node)
+A Node.js-based weather API that provides real-time weather information.
+
+### 📝 [Blog Platform](https://github.com/Precixphantom/blog-platform)
+A full-featured blogging platform built with Node.js and MongoDB.
+
+### ⏰ [Chronos API](https://github.com/Precixphantom/chronos-api) (Currently Working On)
+An advanced API project incorporating real-time features and payment integration.
+
+---
+
+## 🎯 Current Goals
+
+- 🤝 Contributing to open-source projects
+- 💼 Seeking internship opportunities in backend development
+- 🎓 Looking for scholarships and mentorship programs
+- 🏗️ Building a strong portfolio website
+- 📢 Growing in public and sharing my learning journey
+- 🔒 Gradually exploring cybersecurity fundamentals alongside backend development
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm open to collaboration opportunities, especially projects that involve:
+- Backend development with Node.js
+- API design and development
+- Learning and building in public
+- Cybersecurity-related projects
+
+Looking for **mentorship**, **internship opportunities**, **scholarships**, and chances to work with experienced developers!
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [afolabiprecious099@gmail.com](mailto:afolabiprecious099@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/precious-afolabi-34194138b](https://www.linkedin.com/in/precious-afolabi-34194138b)
+- 🐦 Twitter: [@AfolabiPre38572](https://x.com/AfolabiPre38572)
+- 🌐 Portfolio: Coming Soon!
+
+---
+
+## 📊 GitHub Stats
+
+![Precixphantom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Precixphantom&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Precixphantom&layout=compact&theme=radical)
+
+---
+
+## 💭 Fun Fact
+
+I'm endlessly curious about how things work behind the scenes—whether it's the technology powering websites and apps, or even the special effects in movies. This curiosity drives my passion for backend development and cybersecurity!
+
+---
+
+⭐️ From [Precixphantom](https://github.com/Precixphantom) | Always learning, always building!
