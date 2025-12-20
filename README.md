@@ -4,7 +4,7 @@
 
 I'm a Computer Science and Cybersecurity (Mathematics) student at **Obafemi Awolowo University** in Osun, Nigeria. I'm passionate about building robust backend systems and understanding how things work behind the scenes—whether it's websites, apps, or even movies!
 
-Currently mastering backend development with Node.js, with plans to dive deeper into cybersecurity once I've built a solid foundation. My goal? To become a skilled ethical hacker who can protect and secure digital systems.
+Currently mastering backend development with Node.js, while also considering learning other programming languages for backend development to expand my toolkit. My plan is to build a solid foundation in backend development before diving deeper into cybersecurity. My goal? To become a skilled ethical hacker who can protect and secure digital systems.
 
 ---
 
@@ -15,7 +15,6 @@ Currently mastering backend development with Node.js, with plans to dive deeper 
 - 🔐 Aspiring Ethical Hacker with a curiosity for security
 - 🌱 Currently learning advanced backend development concepts
 - 🔍 Always curious about how things work under the hood
-- 🌍 Based in Osun, Nigeria
 - 📈 Growing in public and building my portfolio
 
 ---
@@ -30,7 +29,6 @@ Currently mastering backend development with Node.js, with plans to dive deeper 
 - MongoDB & Mongoose
 - JWT Authentication
 - Bcrypt (Password Hashing)
-- Redis (Caching)
 - Socket.io (Real-time Communication)
 - Multer (File Uploads)
 - Paystack (Payment Integration)
@@ -42,17 +40,15 @@ Currently mastering backend development with Node.js, with plans to dive deeper 
 
 ---
 
-## 💼 Featured Projects
-
-### 🌤️ [Weather API](https://github.com/Precixphantom/weather-api-node)
+💼 Featured Projects
+🌤️ Weather API
 A Node.js-based weather API that provides real-time weather information.
-
-### 📝 [Blog Platform](https://github.com/Precixphantom/blog-platform)
-A full-featured blogging platform built with Node.js and MongoDB.
-
-### ⏰ [Chronos API](https://github.com/Precixphantom/chronos-api) (Currently Working On)
-An advanced API project incorporating real-time features and payment integration.
-
+📝 Blog Platform
+A full-featured blogging platform with user authentication, CRUD operations for blog posts, and responsive design. Built with Node.js, Express, MongoDB, and EJS templates, featuring session management and password hashing for secure user accounts.
+Live API: [chronos-backend-bqjf.onrender.com](https://blog-platform-6wv2.onrender.com)
+⏰ Chronos API 
+A production-ready study tracking API that helps students organize courses and manage task deadlines with intelligent automation. Features JWT authentication, automated email reminders for upcoming deadlines, weekly progress summaries, and background job scheduling using node-cron. Deployed on Render with 99%+ uptime monitoring.
+Live API: [chronos-backend-bqjf.onrender.com](https://pchronos.vercel.app/)
 ---
 
 ## 🎯 Current Goals
