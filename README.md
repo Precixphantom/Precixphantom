@@ -19,6 +19,15 @@ Currently mastering backend development with Node.js, while also considering lea
 
 ---
 
+## 🌱 Learning & Growing
+I’m a backend developer focused on strengthening my skills and pushing my limits by:
+- Deepening my understanding of backend systems and software engineering principles
+- Exploring new areas and technologies to expand my expertise
+- Solving coding challenges and building practical projects to sharpen problem-solving skills
+- Sharing my learning journey publicly to track growth and stay accountable
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:**
