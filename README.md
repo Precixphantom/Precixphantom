@@ -1,6 +1,6 @@
 # Hi there, I'm Precious Afolabi 👋
 
-**Computer Science & Cybersecurity Student | Junior Backend Developer | Aspiring Ethical Hacker**
+**Computer Science Student | Backend Developer | Aspiring Ethical Hacker**
 
 I'm a Computer Science and Cybersecurity (Mathematics) student at **Obafemi Awolowo University** in Osun, Nigeria. I'm passionate about building robust backend systems and understanding how things work behind the scenes—whether it's websites, apps, or even movies!
 
@@ -10,8 +10,8 @@ Currently mastering backend development with Node.js, while also considering lea
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science & Cybersecurity at Obafemi Awolowo University
-- 💻 Junior Backend Developer specializing in Node.js
+- 🎓 Studying Computer Science at Obafemi Awolowo University
+- 💻 Backend Developer specializing in Node.js
 - 🔐 Aspiring Ethical Hacker with a curiosity for security
 - 🌱 Currently learning advanced backend development concepts
 - 🔍 Always curious about how things work under the hood
