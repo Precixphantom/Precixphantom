@@ -2,9 +2,9 @@
 
 **Computer Science Student | Backend Developer | Aspiring Ethical Hacker**
 
-I'm a Computer Science and Cybersecurity (Mathematics) student at **Obafemi Awolowo University** in Osun, Nigeria. I'm passionate about building robust backend systems and understanding how things work behind the scenes—whether it's websites, apps, or even movies!
+I'm a Computer Science (Mathematics) student at **Obafemi Awolowo University** in Osun, Nigeria. I'm passionate about building robust backend systems and understanding how things work behind the scenes—whether it's websites, apps, or even movies!
 
-Currently mastering backend development with Node.js, while also considering learning other programming languages for backend development to expand my toolkit. My plan is to build a solid foundation in backend development before diving deeper into cybersecurity. My goal? To become a skilled ethical hacker who can protect and secure digital systems.
+Currently mastering backend development with Node.js, while also considering learning other programming languages for backend development to expand my toolkit. I plan to build a solid foundation in backend development before diving deeper into cybersecurity. My goal? To become a skilled ethical hacker who can protect and secure digital systems.
 
 ---
 
