@@ -2,7 +2,7 @@
 
 **Backend Developer (Node.js) | CS Student at OAU | Building toward cybersecurity**
 
-I'm a Computer Science student at **Obafemi Awolowo University** in Osun, Nigeria. I'm passionate about building robust backend systems and understanding how things work behind the scenes—whether it's websites, apps, or even movies!
+I'm a Computer Science student at **Obafemi Awolowo University** in Osun, Nigeria. I build and ship backend APIs. Currently focused on Node.js, Express, PostgreSQL, and MongoDB. Learning in public.
 
 Currently mastering backend development with Node.js, while also considering learning other programming languages for backend development to expand my toolkit. I plan to build a solid foundation in backend development before diving deeper into cybersecurity. My goal? To become a skilled ethical hacker who can protect and secure digital systems.
 
@@ -41,6 +41,10 @@ I’m a backend developer focused on strengthening my skills and pushing my limi
 - Socket.io (Real-time Communication)
 - Multer (File Uploads)
 - Paystack (Payment Integration)
+- PostgreSQL
+- pg (node-postgres)
+- express-validator
+- node-cron
 
 **Development Tools:**
 - VS Code
@@ -92,7 +96,7 @@ Looking for **mentorship**, **internship opportunities**, **scholarships**, and 
 ## 📫 Connect With Me
 
 - 📧 Email: [afolabiprecious099@gmail.com](mailto:afolabiprecious099@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/precious-afolabi-34194138b](https://www.linkedin.com/in/precious-afolabi-34194138b)
+- 💼 LinkedIn: https://www.linkedin.com/in/preciousafolabi/
 - 🐦 Twitter: [@AfolabiPre38572](https://x.com/AfolabiPre38572)
 - 🌐 Portfolio: Coming Soon!
 
